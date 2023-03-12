@@ -4,12 +4,10 @@
 
 1. Change the value of **'exeFileName'** to your exefile name in  **generater.py (line 7)**
 
-    (exeFileName = 'YourExeFileName')
-
+   (exeFileName = 'YourExeFileName')
 2. Change the value of 'maxChar' to maximum character number you want.
 
-    (maxChar = MaximumCharacterNumberYouWant)
-
+   (maxChar = MaximumCharacterNumberYouWant)
 3. Type follow in directories that generator.py is exist.
 
    **`python3 generator.py NumberOfYouWantTest`**
@@ -18,11 +16,11 @@
 
    `python3 generator.py 100`
 
-    This will be test for 100 random txt files.
+   This will be test for 100 random txt files.
 
 ---
 
-##### This python file makes a directories **randomTxtFiles, outPut1, outPut2**
+#### This python file makes a directories **randomTxtFiles, outPut1, outPut2**
 
 * randomTxtFiles : The random txt files
   * In randomTxtFiles, there are txt files that generated named random_text_numberOfTested (e.g random_text_3)
@@ -31,7 +29,7 @@
 * outPut2 : The output of samplewc209
   * In outPut2, there are output files named output2_numberOfTested (e.g output2_3).
 
-##### If your codes output is different from samplewc209, python code will stop the test and tell you what random txt file makes your code wrong.
+#### If your codes output is different from samplewc209, python code will stop the test and tell you what random txt file makes your code wrong.
 
 For example, if your code different from samplewc209 at third random txt file, then python will stop the test and tell like below.
 
