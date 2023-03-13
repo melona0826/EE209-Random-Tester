@@ -8,13 +8,13 @@
 2. Change the value of 'maxChar' to maximum character number you want.
 
    (maxChar = MaximumCharacterNumberYouWant)
-3. Type follow in directories that generator.py is exist.
+3. Type follow in directories that generater.py is exist.
 
-   **`python3 generator.py NumberOfYouWantTest`**
+   **`python3 generater.py NumberOfYouWantTest`**
 
    ex)
 
-   `python3 generator.py 100`
+   `python3 generater.py 100`
 
    This will be test for 100 random txt files.
 
